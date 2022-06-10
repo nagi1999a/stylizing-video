@@ -1,5 +1,5 @@
-guides
-outtest
+guides/
+outtest/
 # Prerequisites
 *.d
 
